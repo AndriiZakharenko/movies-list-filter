@@ -1,25 +1,30 @@
 # Movies List Filter
 
-### Description
+## 🎮 About the Project
+A **React-based movie catalog** with filtering functionality.  
+Users can **search for movies** by title and dynamically filter the list.
 
-- Added a filter for Movie List
-- 
-### Stack
+## 🚀 Tech Stack
+- **HTML** (BEM methodology for structured markup)  
+- **CSS** (Bulma for styling)  
+- **JavaScript** (Dynamic logic)  
+- **React** (Component-based architecture)  
+- **ReactDOM** (Efficient rendering)  
 
-- HTML (BEM)
-- CSS (Bulma)
-- JS
-- React
-- ReactDOM
+## 🛠️ Tools & Dependencies
+- **ESLint** – Ensuring code quality  
+- **Prettier** – Code formatting for readability  
+- **Cypress** – End-to-end testing  
+- **Mochawesome** – Test reporting  
+- **Babel** – JavaScript compiler for modern syntax  
 
-### Tools
+## 📌 Features
+✅ Displays a **list of movies**  
+✅ Allows **filtering by title**  
+✅ Fully **responsive and structured UI**  
 
-- ESlint
-- Prettier
-- Cypress
-- Mochawesome
-- Babel
+## 🌐 Demo
+🔗 [Live Demo](https://AndriiZakharenko.github.io/movies-list-filter/)
 
-### Demo links
-
-- [Demo](https://AndriiZakharenko.github.io/movies-list-filter/)
+## 📜 License
+This project is forked from 💻 [Mate Academy](https://github.com/mate-academy/react_movies-list-filter-js)
